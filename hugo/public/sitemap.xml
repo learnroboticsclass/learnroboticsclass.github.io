@@ -2,10 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://learnroboticsclass.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://learnroboticsclass.github.io/about/</loc>
   </url>
   
@@ -19,6 +15,11 @@
   
   <url>
     <loc>https://learnroboticsclass.github.io/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://learnroboticsclass.github.io/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
