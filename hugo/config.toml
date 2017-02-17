@@ -74,6 +74,11 @@ paginate = 10
     url  = "/classes/"
     weight = 3
 
+[[params.menu]]
+    name = "Survey"
+    url  = "/survey/"
+    weight = 4
+
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     categories = false
