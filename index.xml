@@ -17,10 +17,12 @@
       <guid>https://learnroboticsclass.github.io/about/</guid>
       <description>
 
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;join-the-robotics-revolution&#34;&gt;Join the Robotics Revolution!&lt;/h2&gt;
 
-&lt;p&gt;&lt;img align=&#34;left&#34; hspace=&#34;20&#34; src=&#34;https://github.com/learnroboticsclass/learnroboticsclass.github.io/blob/master/img/robotics-class.png?raw=true&#34; width=&#34;50%&#34; height=&#34;30%&#34;/&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;p&gt;&lt;img align=&#34;center&#34; hspace=&#34;20&#34; src=&#34;https://github.com/learnroboticsclass/learnroboticsclass.github.io/blob/master/img/robotics-class.png?raw=true&#34; width=&#34;50%&#34; height=&#34;30%&#34;/&gt;
+&lt;br&gt;&lt;br&gt;
 Learn Robotics was founded with the purpose of bringing high-quality robotics and programming classes to the Greater Indianapolis community.
 &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
@@ -29,7 +31,7 @@ Learn Robotics was founded with the purpose of bringing high-quality robotics an
 
 &lt;p&gt;Face it, automation, software, and robots are all around us. We live in a world packed with tech, computers, and &amp;ldquo;smart&amp;rdquo; devices. Let us teach you how to join this Robotics Revolution with class offerings such as Robotics Foundations and Electronics &amp;amp; Sensing.&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/center&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;who-we-are&#34;&gt;Who We Are&lt;/h2&gt;
 
@@ -38,19 +40,23 @@ Learn Robotics was founded with the purpose of bringing high-quality robotics an
 &lt;p&gt;Started by Robotics Engineer, Liz Miller, Learn Robotics is a full service-to-hire robotics education startup focused on bringing quality introductory and intermediate robotics classes to youth and young adults within Indianapolis organizations.&lt;/p&gt;
 
 &lt;p&gt;From curriculum development, to providing robot kits and laptops, to teaching the course, Learn Robotics does it all. &lt;b&gt;Full Service means full service!&lt;/b&gt; Just create your custom course using our &lt;a href=&#34;learnrobotics.github.io/build-a-course&#34;&gt;Online Course Builder&lt;/a&gt;, and we&amp;rsquo;ll send you an estimate for your custom course within 2-3 business days.
-&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img align=&#34;left&#34; hspace=&#34;20&#34; src=&#34;https://github.com/learnroboticsclass/learnroboticsclass.github.io/blob/master/img/liz.jpg?raw=true&#34; width=&#34;25%&#34; height=&#34;13%&#34;/&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img align=&#34;left&#34; hspace=&#34;20&#34; src=&#34;https://github.com/learnroboticsclass/learnroboticsclass.github.io/blob/master/img/liz.jpg?raw=true&#34; width=&#34;25%&#34; height=&#34;13%&#34;/&gt;
 &lt;br&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;meet-your-lead-instructor-liz&#34;&gt;Meet your Lead Instructor, Liz!&lt;/h4&gt;
 
-&lt;p&gt;Liz holds a Bachelor of Science degree in Robotics Engineering from Worcester Polytechnic Institute. She has taught 100&amp;rsquo;s of introductory robotics classes to elementary, middle, and high school students throughout New England. Liz&amp;rsquo;s most recent teaching gig was at Massachusetts Institute of Technology! Liz works full-time in high-volume automated manufacturing where she maintains robotic arms and industrial equipment. Liz&amp;rsquo;s love for teaching robotics led her to design and launch Learn Robotics within the Greater Indianapolis community!
+&lt;p&gt;Liz holds a Bachelor of Science degree in Robotics Engineering from Worcester Polytechnic Institute. She has taught hundreds of introductory robotics classes to elementary, middle, and high school students throughout New England. Liz&amp;rsquo;s most recent teaching gig was at Massachusetts Institute of Technology! Liz works full-time in high-volume automated manufacturing where she maintains robotic arms and industrial equipment. Liz&amp;rsquo;s love for teaching robotics led her to design and launch Learn Robotics within the Greater Indianapolis community!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:liz@learnrobotics.org&#34; class=&#34;btn btn-template-main btn-lg&#34;&gt;Email Liz &lt;i class=&#34;fa fa-envelope&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;
 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;what-we-do&#34;&gt;What We Do&lt;/h2&gt;
 
-&lt;p&gt;A big part of Learn Robotics is overcoming the learning curve of beginning robot programming. We pride ourselves on making classes engaging, interactive, and informative. &lt;em&gt;Quality education is our #1 goal, but having fun is our #1 priority!&lt;/em&gt; The curriculum for each Learn Robotics class is designed so that students of varying backgrounds will have a functioning robot to use in class challenges! &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/section&gt;&lt;/p&gt;
+&lt;p&gt;A big part of Learn Robotics is overcoming the learning curve of beginning robot programming. We pride ourselves on making classes engaging, interactive, and informative. &lt;em&gt;Quality education is our #1 goal, but having fun is our #1 priority!&lt;/em&gt; The curriculum for each Learn Robotics class is designed so that students of varying backgrounds will have a functioning robot to use in class challenges! &lt;br&gt;
+&lt;center&gt;
+&lt;img align=&#34;center&#34; hspace=&#34;10&#34; src=&#34;static/img/what-we-do.png&#34; width=&#34;66%&#34; height=&#34;200px&#34;/&gt;&lt;/center&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -64,21 +70,42 @@ Learn Robotics was founded with the purpose of bringing high-quality robotics an
 
 &lt;h3 id=&#34;classes&#34;&gt;CLASSES&lt;/h3&gt;
 
-&lt;h4 id=&#34;introductory-seminar&#34;&gt;Introductory Seminar&lt;/h4&gt;
-
-&lt;p&gt;A 1-hour lecture-style informational talk on robotics. Demo included.&lt;/p&gt;
+&lt;p&gt;Our classes are based on duration and can be customized to match your scheduling needs.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;4-hour-class&#34;&gt;4-Hour Class&lt;/h4&gt;
+&lt;h4 id=&#34;most-popular-classes&#34;&gt;Most Popular Classes&lt;/h4&gt;
 
-&lt;p&gt;A 4-hour class filled with hands-on interaction and instruction about robotics, electronics, and programming.&lt;/p&gt;
+&lt;p&gt;We specialize in bringing robotics classes to any organization. With that said, our most popular classes are below:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;After School Programs (2-hour class)&lt;/li&gt;
+&lt;li&gt;Weekend Workshops &amp;amp; Sessions (4-hour class)&lt;/li&gt;
+&lt;li&gt;Fall, Winter, Spring Break &amp;amp; Summer Vacation Programs (2-4 hour class)&lt;/li&gt;
+&lt;li&gt;Private Events (Individual groups &amp;amp; Birthday Parties)&lt;/li&gt;
+&lt;li&gt;Public Events&lt;/li&gt;
+&lt;li&gt;Your Custom Event&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;6-hour-class&#34;&gt;6-Hour Class&lt;/h4&gt;
+&lt;p&gt;&lt;h4 style=&#34;color:green&#34;&gt; Introductory Seminar&lt;/h4&gt;
+A 1-hour lecture-style informational talk on robotics. Demo included.&lt;/p&gt;
 
-&lt;p&gt;An extension of our 4-hour class, but with added time for in-class challenges.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4 style=&#34;color:green&#34;&gt; 2 &amp;amp; 3-Hour Classes &lt;/h4&gt;
+A 2 or 3-hour after school program focused on robotics programming for various challenges.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4 style=&#34;color:green&#34;&gt; 4-Hour Class &lt;/h4&gt;
+A 4-hour class filled with hands-on interaction and instruction about robotics, electronics, and programming.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4 style=&#34;color:green&#34;&gt; 6-Hour Class &lt;/h4&gt;
+An extension of our 4-hour class, but with added time for in-class challenges.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
@@ -111,17 +138,6 @@ Learn Robotics was founded with the purpose of bringing high-quality robotics an
 &lt;li&gt;And More!&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;b&gt; Types of events we hold: &lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;After School Programs&lt;/li&gt;
-&lt;li&gt;Weekend Workshops &amp;amp; Sessions&lt;/li&gt;
-&lt;li&gt;Fall, Winter, Spring Break &amp;amp; Summer Vacation Programs&lt;/li&gt;
-&lt;li&gt;Private Events (Individual groups &amp;amp; Birthday Parties)&lt;/li&gt;
-&lt;li&gt;Public Events&lt;/li&gt;
-&lt;li&gt;Your Custom Event&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;p&gt;&lt;br&gt;
 Use our Online Class Builder to design your Custom Class!&lt;/p&gt;
 
@@ -141,7 +157,7 @@ Use our Online Class Builder to design your Custom Class!&lt;/p&gt;
 
 &lt;h4 id=&#34;kits-certificates-snacks&#34;&gt;Kits, Certificates, &amp;amp; Snacks&lt;/h4&gt;
 
-&lt;p&gt;All classes include options for renting/owning Robotics Kits, obtaining Course Certificates, and of course Snacks &amp;amp; Drinks!&lt;/p&gt;
+&lt;p&gt;All classes include options for renting and selling Robotics Kits, obtaining Course Certificates, and of course Snacks &amp;amp; Drinks!&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 </description>
@@ -168,18 +184,21 @@ Use our Online Class Builder to design your Custom Class!&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&#34;fa fa-phone&#34; aria-hidden=&#34;true&#34; &gt;&lt;/i&gt;    860-578-4459 &lt;br&gt;
-&lt;i class=&#34;fa fa-envelope&#34; aria-hidden=&#34;true&#34; &gt;&lt;/i&gt;   &lt;a href=&#34;mailto:liz@learnrobotics.org&#34;&gt;liz@learnrobotics.org&lt;/a&gt;
-&lt;br&gt;&lt;/p&gt;
+&lt;i class=&#34;fa fa-envelope&#34; aria-hidden=&#34;true&#34; &gt;&lt;/i&gt;   &lt;a href=&#34;mailto:info@learnrobotics.org&#34;&gt;info@learnrobotics.org&lt;/a&gt;&lt;a name=&#34;partner&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;like-us-on-facebook-http-facebook-com-learnroboticsclass&#34;&gt;&lt;a href=&#34;http://facebook.com/LearnRoboticsClass&#34;&gt;Like Us on Facebook!&lt;/a&gt;&lt;/h5&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;partner-with-us&#34;&gt;Partner With Us&lt;/h3&gt;
+&lt;h3 id=&#34;work-with-us&#34;&gt;Work with Us&lt;/h3&gt;
 
-&lt;p&gt;Are you curious about &lt;strong&gt;hosting&lt;/strong&gt; or &lt;strong&gt;sponsoring&lt;/strong&gt; a Learn Robotics event?&lt;/p&gt;
+&lt;h4 id=&#34;are-you-looking-for-a-summer-internship&#34;&gt;Are you looking for a Summer Internship?&lt;/h4&gt;
 
-&lt;p&gt;Looking to offer a Learn Robotics class at your organization? Contact Us using the form below, and we will arrange a meeting to discuss the best class options!&lt;/p&gt;
+&lt;p&gt;We are now taking applications for College Interns!&lt;/p&gt;
+
+&lt;p&gt;Do you have a love for working on a variety of projects and providing quality service? Learn Robotics is now looking for talented interns who can wear multiple hats and have an interest in Robotics. We will work with your college to provide you both experience and course credit with our internship program.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Apply Today using the form below!&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -256,8 +275,14 @@ Use our Online Class Builder to design your Custom Class!&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://learnroboticsclass.github.io/build-a-class/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSeMWaa6vWK-lHY49kii25aid4s2pv9FIHYL6eF--dTd1ynzXg/viewform?embedded=true&#34; width=&#34;100%&#34; height=&#34;900&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading&amp;hellip;&lt;/iframe&gt;
-&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+      <description>&lt;!--&lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSeMWaa6vWK-lHY49kii25aid4s2pv9FIHYL6eF--dTd1ynzXg/viewform?embedded=true&#34; width=&#34;100%&#34; height=&#34;900&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading...&lt;/iframe&gt;
+&lt;br&gt;&lt;br&gt;--&gt;
+
+&lt;!-- Change the width and height values to suit you best --&gt;
+
+&lt;div class=&#34;typeform-widget&#34; data-url=&#34;https://learnrobotics.typeform.com/to/jDYaIo&#34; data-text=&#34;Custom Robotics Class Builder&#34; style=&#34;width:100%;height:600px;&#34;&gt;&lt;/div&gt;
+&lt;script&gt;(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()&lt;/script&gt;
+&lt;div style=&#34;font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 0px;&#34;&gt;Powered by&lt;a href=&#34;https://www.typeform.com/examples/?utm_campaign=jDYaIo&amp;amp;utm_source=typeform.com-6988568-Basic&amp;amp;utm_medium=typeform&amp;amp;utm_content=typeform-embedded-poweredbytypeform&amp;amp;utm_term=EN&#34; style=&#34;color: #999&#34; target=&#34;_blank&#34;&gt;Typeform&lt;/a&gt;&lt;/div&gt;
 </description>
     </item>
     
