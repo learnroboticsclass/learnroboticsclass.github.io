@@ -278,14 +278,13 @@ Use our Online Class Builder to design your Custom Class!&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://learnroboticsclass.github.io/build-a-class/</guid>
-      <description>&lt;!--&lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSeMWaa6vWK-lHY49kii25aid4s2pv9FIHYL6eF--dTd1ynzXg/viewform?embedded=true&#34; width=&#34;100%&#34; height=&#34;900&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading...&lt;/iframe&gt;
-&lt;br&gt;&lt;br&gt;--&gt;
+      <description>&lt;p&gt;&lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSeMWaa6vWK-lHY49kii25aid4s2pv9FIHYL6eF--dTd1ynzXg/viewform?embedded=true&#34; width=&#34;100%&#34; height=&#34;900&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading&amp;hellip;&lt;/iframe&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;!-- Change the width and height values to suit you best --&gt;
-
+&lt;!-- Change the width and height values to suit you best 
 &lt;div class=&#34;typeform-widget&#34; data-url=&#34;https://learnrobotics.typeform.com/to/jDYaIo&#34; data-text=&#34;Custom Robotics Class Builder&#34; style=&#34;width:100%;height:600px;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()&lt;/script&gt;
-&lt;div style=&#34;font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 0px;&#34;&gt;Powered by&lt;a href=&#34;https://www.typeform.com/examples/?utm_campaign=jDYaIo&amp;amp;utm_source=typeform.com-6988568-Basic&amp;amp;utm_medium=typeform&amp;amp;utm_content=typeform-embedded-poweredbytypeform&amp;amp;utm_term=EN&#34; style=&#34;color: #999&#34; target=&#34;_blank&#34;&gt;Typeform&lt;/a&gt;&lt;/div&gt;
+&lt;div style=&#34;font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 0px;&#34;&gt;Powered by&lt;a href=&#34;https://www.typeform.com/examples/?utm_campaign=jDYaIo&amp;amp;utm_source=typeform.com-6988568-Basic&amp;amp;utm_medium=typeform&amp;amp;utm_content=typeform-embedded-poweredbytypeform&amp;amp;utm_term=EN&#34; style=&#34;color: #999&#34; target=&#34;_blank&#34;&gt;Typeform&lt;/a&gt;&lt;/div&gt; --&gt;
 </description>
     </item>
     
