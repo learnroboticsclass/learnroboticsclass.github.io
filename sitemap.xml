@@ -2,31 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://learnroboticsclass.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://learnroboticsclass.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://learnroboticsclass.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://learnroboticsclass.github.io/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>https://learnroboticsclass.github.io/classes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://learnroboticsclass.github.io/survey/</loc>
-  </url>
-  
-  <url>
-    <loc>https://learnroboticsclass.github.io/build-a-class/</loc>
+    <loc>localhost:1313</loc>
   </url>
   
 </urlset>
