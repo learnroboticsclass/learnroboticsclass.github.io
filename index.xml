@@ -15,7 +15,39 @@
       <pubDate>Sat, 25 Mar 2017 09:35:26 -0400</pubDate>
       
       <guid>/learnrobotics.org/build-a-class/</guid>
-      <description></description>
+      <description>&lt;!-- Begin Prefinery Signup Form --&gt;
+
+&lt;div id=&#34;pfy_embed_signup&#34;&gt;
+  &lt;form action=&#34;https://i.prefinery.com/projects/snyj2yub/users/post&#34; id=&#34;pfy_signup_form&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34; target=&#34;_blank&#34; novalidate&gt;
+    &lt;!-- Set the referrer value if you would like us to record the HTTP referrer for this signup. --&gt;
+    &lt;input id=&#34;referrer&#34; name=&#34;referrer&#34; type=&#34;hidden&#34; value=&#34;&#34;&gt;
+    
+    &lt;!-- Set the referral_token value to the unique referral code owned by the referring
+         tester if you would like to give them referral credit for this signup.
+         Our JavaScript snippet automatically stores this value in the cookie 
+         named &#34;_pfy_snyj2yub_referral&#34; when a referral link is followed.
+         Therefore, you may simply read the value from that cookie and use it
+         as the value for the following referral_token input field. --&gt;
+    &lt;input id=&#34;referral_token&#34; name=&#34;referral_token&#34; type=&#34;hidden&#34; value=&#34;&#34;&gt;
+
+    &lt;div class=&#34;pfy-field-group&#34;&gt;
+      &lt;label for=&#34;pfy_user_profile_email&#34;&gt;Email Address&lt;/label&gt;
+      &lt;input autocomplete=&#34;email&#34; type=&#34;email&#34; name=&#34;user[profile][email]&#34; id=&#34;pfy_user_profile_email&#34;&gt;
+    &lt;/div&gt;
+    
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;!-- Honeypot for spam bots. Don&#39;t set this value. Remove at your own risk. --&amp;gt;
+&amp;lt;div style=&amp;quot;position: absolute; left: -5000px;&amp;quot; aria-hidden=&amp;quot;true&amp;quot;&amp;gt;
+  &amp;lt;input type=&amp;quot;text&amp;quot; name=&amp;quot;86c93a0536148fbc8038ab5b7e7effcc1239a5c8&amp;quot; tabindex=&amp;quot;-1&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;input type=&amp;quot;submit&amp;quot; value=&amp;quot;Submit&amp;quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/form&gt;
+&lt;/div&gt;
+&lt;!-- End Prefinery Signup Form --&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
